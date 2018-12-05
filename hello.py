@@ -1,2 +1,3 @@
 print "hello world"
-print "hello again"
+for i in range(10):
+	print "hello again"
